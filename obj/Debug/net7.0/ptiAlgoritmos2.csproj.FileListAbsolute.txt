@@ -1,0 +1,15 @@
+D:\Documents\faculdades\ADS\algoritmosProgramacao2\ptiAlgoritmos2\bin\Debug\net7.0\ptiAlgoritmos2.exe
+D:\Documents\faculdades\ADS\algoritmosProgramacao2\ptiAlgoritmos2\bin\Debug\net7.0\ptiAlgoritmos2.deps.json
+D:\Documents\faculdades\ADS\algoritmosProgramacao2\ptiAlgoritmos2\bin\Debug\net7.0\ptiAlgoritmos2.runtimeconfig.json
+D:\Documents\faculdades\ADS\algoritmosProgramacao2\ptiAlgoritmos2\bin\Debug\net7.0\ptiAlgoritmos2.dll
+D:\Documents\faculdades\ADS\algoritmosProgramacao2\ptiAlgoritmos2\bin\Debug\net7.0\ptiAlgoritmos2.pdb
+D:\Documents\faculdades\ADS\algoritmosProgramacao2\ptiAlgoritmos2\obj\Debug\net7.0\ptiAlgoritmos2.csproj.AssemblyReference.cache
+D:\Documents\faculdades\ADS\algoritmosProgramacao2\ptiAlgoritmos2\obj\Debug\net7.0\ptiAlgoritmos2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\faculdades\ADS\algoritmosProgramacao2\ptiAlgoritmos2\obj\Debug\net7.0\ptiAlgoritmos2.AssemblyInfoInputs.cache
+D:\Documents\faculdades\ADS\algoritmosProgramacao2\ptiAlgoritmos2\obj\Debug\net7.0\ptiAlgoritmos2.AssemblyInfo.cs
+D:\Documents\faculdades\ADS\algoritmosProgramacao2\ptiAlgoritmos2\obj\Debug\net7.0\ptiAlgoritmos2.csproj.CoreCompileInputs.cache
+D:\Documents\faculdades\ADS\algoritmosProgramacao2\ptiAlgoritmos2\obj\Debug\net7.0\ptiAlgoritmos2.dll
+D:\Documents\faculdades\ADS\algoritmosProgramacao2\ptiAlgoritmos2\obj\Debug\net7.0\refint\ptiAlgoritmos2.dll
+D:\Documents\faculdades\ADS\algoritmosProgramacao2\ptiAlgoritmos2\obj\Debug\net7.0\ptiAlgoritmos2.pdb
+D:\Documents\faculdades\ADS\algoritmosProgramacao2\ptiAlgoritmos2\obj\Debug\net7.0\ptiAlgoritmos2.genruntimeconfig.cache
+D:\Documents\faculdades\ADS\algoritmosProgramacao2\ptiAlgoritmos2\obj\Debug\net7.0\ref\ptiAlgoritmos2.dll
